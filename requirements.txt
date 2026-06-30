@@ -1,0 +1,9 @@
+python-dotenv
+notebook
+pandas
+lightgbm
+statsmodels
+matplotlib
+datasets
+seaborn
+scikit-learn
